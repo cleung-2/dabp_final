@@ -1,0 +1,184 @@
+,HospitalName,City,NumberOfStaffedBeds,TotalDischarges,PatientDays,GrossPatientRevenue($000)
+0,Chester County Hospital,West Chester,312,17388,62961,1603236.0
+1,Reading Hospital,West Reading,655,31830,165061,3758186.0
+2,UPMC Hamot,Erie,456,19441,106060,3575828.0
+3,UPMC Lititz,Lititz,36,2915,11425,385793.0
+4,UPMC Magee-Womens Hospital,Pittsburgh,337,17859,94811,4834561.0
+5,Advanced Surgical Hospital,Washington,14,533,1082,78968.0
+6,AHN Brentwood Neighborhood Hospital,Brentwood,0,0,0,0.0
+7,AHN Grove City,Grove City,67,1074,3613,160948.0
+8,AHN Harmar Neighborhood Hospital,Pittsburgh,0,0,0,0.0
+9,AHN Hempfield Neighborhood Hospital,Greensburg,40,745,2707,198423.0
+10,AHN McCandless Neighborhood Hospital,Pittsburgh,0,0,0,0.0
+11,AHN Wexford Hospital,Wexford,0,0,0,0.0
+12,Allegheny General Hospital,Pittsburgh,552,21455,122583,3673525.0
+13,Allegheny Valley Hospital,Natrona Heights,188,2662,10807,439961.0
+14,Armstrong County Memorial Hospital,Kittanning,162,3010,15215,334476.0
+15,Berwick Hospital Center,Berwick,90,560,1607,207498.0
+16,Bradford Regional Medical Center,Bradford,202,2904,14778,142994.0
+17,Bryn Mawr Hospital,Bryn Mawr,268,12661,51231,1540133.0
+18,Butler Memorial Hospital,Butler,294,9311,49284,1114236.0
+19,Canonsburg  Hospital,Canonsburg,104,1192,4729,209123.0
+20,Chan Soon-Shiong Medical Center at Windber,Windber,47,1067,2603,107215.0
+21,Chestnut Hill Hospital,Philadelphia,148,6634,30262,1014237.0
+22,Children's Hospital of Philadelphia - Middleman Family Pavilion,King of Prussia,0,0,0,0.0
+23,Clarion Hospital,Clarion,65,1121,4132,120836.0
+24,Conemaugh Memorial Medical Center,Johnstown,414,13954,73483,1412276.0
+25,Conemaugh Memorial Medical Center - Lee Campus,Johnstown,214,6951,29459,200471.0
+26,Conemaugh Nason Medical Center,Roaring Spring,45,1682,5529,118269.0
+27,Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center,Philadelphia,0,0,0,0.0
+28,Crozer-Chester Medical Center,Upland,410,12416,71650,3506895.0
+29,Delaware County Memorial Hospital,Drexel Hill,145,4838,23432,973064.0
+30,Doylestown Hospital,Doylestown,271,13055,52226,1282218.0
+31,Eagleville Hospital,Eagleville,83,1035,5312,51971.0
+32,Edgewood Surgical Hospital,Transfer,10,313,436,71267.0
+33,Einstein Medical Center Elkins Park,Elkins Park,154,2392,12390,194402.0
+34,Einstein Medical Center Montgomery,East Norriton,175,12469,51888,1204654.0
+35,Einstein Medical Center Philadelphia,Philadelphia,685,22718,108246,2949718.0
+36,Erie VA Medical Center,Erie,0,0,0,0.0
+37,Evangelical Community Hospital,Lewisburg,131,4956,20262,808775.0
+38,Excela Health Frick Hospital,Mount Pleasant,33,1979,8216,183134.0
+39,Excela Health Westmoreland Hospital,Greensburg,309,14335,61471,801302.0
+40,Excela Latrobe Hospital,Latrobe,115,5926,24416,407490.0
+41,Forbes Hospital,Monroeville,291,11720,53252,1212308.0
+42,Fox Chase Cancer Center,Philadelphia,100,3484,18098,1060408.0
+43,Geisinger Bloomsburg Hospital,Bloomsburg,53,2157,6516,328276.0
+44,Geisinger Janet Weis Children's Hospital,Danville,0,0,0,0.0
+45,Geisinger Lewistown Hospital,Lewistown,133,5293,18385,617906.0
+46,Geisinger Medical Center,Danville,554,29671,151253,9519994.0
+47,Geisinger Medical Center Muncy,Muncy,0,0,0,0.0
+48,Geisinger Shamokin Area Community Hospital,Coal Township,70,2126,8224,74799.0
+49,Geisinger South Wilkes-Barre,Wilkes-Barre,0,0,0,0.0
+50,Geisinger St. Luke's Hospital,Orwigsburg,40,2880,10551,294928.0
+51,Geisinger Wyoming Valley Medical Center,Wilkes-Barre,300,20064,81701,5114110.0
+52,Geisinger-Community Medical Center,Scranton,293,13398,60313,2792356.0
+53,Grand View Hospital,Sellersville,169,7048,30319,666027.0
+54,Guthrie Robert Packer Hospital,Sayre,334,14721,66737,1452741.0
+55,"Guthrie Robert Packer Hospital, Towanda Campus",Towanda,99,267,1095,87749.0
+56,H. John Heinz III Department of Veterans Affairs Medical Center,Pittsburgh,0,0,0,0.0
+57,Heritage Valley Beaver,Beaver,217,9079,40897,656460.0
+58,Heritage Valley Kennedy,McKees Rocks,111,1572,6607,152894.0
+59,Heritage Valley Sewickley,Sewickley,130,5534,21347,328491.0
+60,Holy Redeemer Hospital,Meadowbrook,246,8544,45568,753023.0
+61,Hospital of the University of Pennsylvania,Philadelphia,839,37697,247672,15378915.0
+62,Indiana Regional Medical Center,Indiana,142,4908,20284,535460.0
+63,"James E. Van Zandt VA Medical Center - Altoona, PA",Altoona,0,0,0,0.0
+64,Jefferson Abington Hospital,Abington,634,30310,153831,2670027.0
+65,Jefferson Bucks Hospital,Langhorne,0,0,0,0.0
+66,Jefferson Frankford Hospital,Philadelphia,0,0,0,0.0
+67,Jefferson Hospital,Jefferson Hills,333,11745,49147,1399988.0
+68,Jefferson Lansdale Hospital,Lansdale,140,5557,23690,355136.0
+69,Jefferson Methodist Hospital,Philadelphia,0,0,0,0.0
+70,Jefferson Torresdale Hospital,Philadelphia,457,24134,125516,2145290.0
+71,Kensington Hospital,Philadelphia,14,112,2154,9004.0
+72,Lancaster General Hospital,Lancaster,620,27890,150780,3427371.0
+73,Lankenau Medical Center,Wynnewood,370,18231,97951,2738690.0
+74,Lebanon VA Medical Center,Lebanon,0,0,0,0.0
+75,Lehigh Valley Health Network - 1503 North Cedar Crest,Allentown,20,1095,1155,354867.0
+76,Lehigh Valley Health Network - Highland Avenue,Bethlehem,20,1510,1624,129394.0
+77,Lehigh Valley Hospital - Carbon,Lehighton,0,0,0,0.0
+78,Lehigh Valley Hospital - Cedar Crest,Allentown,1227,51694,282149,11934984.0
+79,Lehigh Valley Hospital - Dickson City,Dickson City,0,0,0,0.0
+80,Lehigh Valley Hospital - Hecktown Oaks,Easton,0,0,0,0.0
+81,Lehigh Valley Hospital - Muhlenberg,Bethlehem,238,9294,54968,1769137.0
+82,Lehigh Valley Hospital - Pocono,East Stroudsburg,249,8016,34547,1360366.0
+83,Lehigh Valley Hospital - Schuylkill E. Norwegian Street,Pottsville,129,5284,22626,299548.0
+84,Lehigh Valley Hospital-Hazleton,Hazleton,150,4718,18944,724164.0
+85,Lehigh Valley Hospital-Schuylkill S. Jackson Street,Pottsville,186,4716,25967,540744.0
+86,Lehigh Valley Reilly Children’s Hospital,Allentown,0,0,0,0.0
+87,Lower Bucks Hospital,Bristol,175,2900,10470,367846.0
+88,Meadville Medical Center,Meadville,232,7882,23496,760056.0
+89,Mercy Fitzgerald Campus,Darby,340,9149,45087,1225049.0
+90,Millcreek Community Hospital,Erie,167,3184,19348,123941.0
+91,Milton S. Hershey Medical Center,Hershey,625,26071,170819,5731570.0
+92,Moses Taylor Hospital,Scranton,178,5925,26837,1120141.0
+93,Mount Nittany Medical Center,State College,260,9453,41279,1046733.0
+94,Nazareth Hospital,Philadelphia,200,6644,31909,689518.0
+95,OSS Health Orthopaedic Hospital,York,30,1438,2967,431406.0
+96,Paoli Hospital,Paoli,231,13660,59075,1645123.0
+97,Penn Highlands Clearfield,Clearfield,50,1025,3468,139365.0
+98,Penn Highlands Connellsville,Connellsville,61,1094,7582,73514.0
+99,Penn Highlands DuBois,DuBois,216,8993,46082,956321.0
+100,Penn Highlands Huntingdon,Huntingdon,71,1639,9059,0.0
+101,Penn Highlands Mon Valley,Monongahela,158,4481,23493,433088.0
+102,Penn Presbyterian Medical Center,Philadelphia,377,16937,106036,5103733.0
+103,Penn State Health Hampden Medical Center,Enola,0,0,0,0.0
+104,Penn State Health Holy Spirit Medical Center,Camp Hill,306,15228,50390,1538030.0
+105,Penn State Health St. Joseph Medical Center,Reading,180,6322,31445,1070557.0
+106,Pennsylvania Hospital,Philadelphia,474,22161,87838,3452804.0
+107,Phoenixville Hospital,Phoenixville,144,7205,26824,933487.0
+108,Physicians Care Surgical Hospital,Royersford,12,1659,1040,168043.0
+109,Pittsburgh VA Medical Center-University Drive,Pittsburgh,0,0,0,0.0
+110,Pottstown Hospital,Pottstown,211,7389,30290,972271.0
+111,Punxsutawney Area Hospital,Punxsutawney,46,1004,4173,98242.0
+112,Regional Hospital of Scranton,Scranton,153,6693,33294,1084848.0
+113,Riddle Hospital,Media,209,9865,42137,1109144.0
+114,Rothman Orthopaedic Specialty Hospital,Bensalem,24,2048,2615,258132.0
+115,Roxborough Memorial Hospital,Philadelphia,131,2574,11290,318978.0
+116,Saint Clair Hospital,Pittsburgh,322,13613,57477,1280375.0
+117,Saint Luke's  Anderson Campus,Easton,167,14907,44962,2334270.0
+118,Saint Luke's Allentown Campus,Allentown,112,4344,20116,61384.0
+119,Saint Luke's Lehighton Campus,Lehighton,201,3116,14044,481508.0
+120,Saint Luke's Miners Campus,Coaldale,97,2264,8455,483672.0
+121,Saint Luke's Monroe Campus,Stroudsburg,98,7339,30338,1505483.0
+122,Saint Luke's Quakertown Campus,Quakertown,79,4303,19465,937072.0
+123,Saint Luke's Sacred Heart Campus,Allentown,167,1492,21025,686332.0
+124,Saint Luke's University Hospital - Bethlehem,Bethlehem,793,29428,137886,7102647.0
+125,Saint Mary Medical Center,Langhorne,348,18686,84255,1639002.0
+126,Saint Vincent Hospital,Erie,348,11478,58496,2322943.0
+127,Sharon Regional Medical Center,Sharon,213,6532,31567,643147.0
+128,Springfield Hospital,Springfield,0,0,0,0.0
+129,St. Luke's Easton Campus,Easton,29,1295,3454,234770.0
+130,St. Luke's Hospital - Carbon Campus,Lehighton,0,0,0,0.0
+131,St. Luke's Upper Bucks Campus,Quakertown,0,0,0,0.0
+132,Suburban Community Hospital,East Norriton,126,2071,8748,256651.0
+133,Surgical Institute of Reading,Wyomissing,15,470,776,191163.0
+134,Taylor Hospital,Ridley Park,213,5201,21942,734060.0
+135,Temple University Hospital - Episcopal Campus,Philadelphia,0,0,0,0.0
+136,Temple University Hospital - Jeanes Campus,Philadelphia,146,7366,32567,1844585.0
+137,Temple University Hospital - Main Campus,Philadelphia,879,37979,207322,12722293.0
+138,Thomas Jefferson University Hospital,Philadelphia,882,37807,224767,6571714.0
+139,UPMC Altoona,Altoona,368,17316,97397,2207112.0
+140,UPMC Bedford,Everett,36,1002,3887,153222.0
+141,UPMC Carlisle,Carlisle,80,4548,19904,634246.0
+142,UPMC Community Osteopathic,Harrisburg,114,4300,22694,89604.0
+143,UPMC East,Monroeville,155,7124,40785,1153068.0
+144,UPMC Hanover,Hanover,81,5349,22098,459415.0
+145,UPMC Harrisburg,Harrisburg,587,36737,174292,3446425.0
+146,UPMC Horizon - Greenville,Greenville,105,3159,11236,748074.0
+147,UPMC Horizon - Shenango Valley,Farrell,0,0,0,0.0
+148,UPMC Jameson,New Castle,146,4506,21161,412561.0
+149,UPMC Kane,Kane,31,246,885,49259.0
+150,UPMC Lock Haven,Lock Haven,137,607,2862,166849.0
+151,UPMC McKeesport,McKeesport,213,5491,37803,793691.0
+152,UPMC Memorial,York,79,4928,25091,517972.0
+153,UPMC Mercy,Pittsburgh,423,14070,84897,2215159.0
+154,UPMC Montefiore,Pittsburgh,0,0,0,0.0
+155,UPMC Northwest,Seneca,164,4080,18605,537674.0
+156,UPMC Passavant - Cranberry,Cranberry Township,0,0,0,0.0
+157,UPMC Passavant - McCandless,Pittsburgh,409,13899,74688,2549638.0
+158,UPMC Presbyterian,Pittsburgh,1455,43190,320403,16073767.0
+159,UPMC Saint Margaret,Pittsburgh,246,8537,41209,1561322.0
+160,UPMC Shadyside,Pittsburgh,433,22192,121785,1375973.0
+161,UPMC Somerset,Somerset,99,2516,13315,267208.0
+162,UPMC West Shore,Mechanicsburg,0,0,0,0.0
+163,UPMC Williamsport,Williamsport,255,10974,58592,1842079.0
+164,VA Butler Healthcare,Butler,0,0,0,0.0
+165,Valley Forge Medical Center and Hospital,Norristown,50,2059,14087,34077.0
+166,Warren General Hospital,Warren,85,2233,10555,239486.0
+167,Washington Health System Greene,Waynesburg,23,451,1588,45611.0
+168,Washington Hospital,Washington,251,7835,32107,557534.0
+169,Wayne Memorial Hospital,Honesdale,106,3101,10339,371219.0
+170,WellSpan Chambersburg Hospital,Chambersburg,285,9783,46253,1088555.0
+171,WellSpan Ephrata Community Hospital,Ephrata,141,5174,22533,908174.0
+172,Wellspan Gettysburg Hospital,Gettysburg,76,4579,19886,766081.0
+173,WellSpan Good Samaritan Hospital,Lebanon,159,6135,31332,821091.0
+174,Wellspan Surgery and Rehabilitation Hospital,York,73,725,4481,222036.0
+175,Wellspan Waynesboro Hospital,Waynesboro,57,1455,5585,203817.0
+176,WellSpan York Hospital,York,596,25378,155210,3430291.0
+177,West Penn Hospital,Pittsburgh,288,15016,67599,2230747.0
+178,Wilkes-Barre General Hospital,Wilkes-Barre,273,8968,47913,1984483.0
+179,Wilkes-Barre VA Medical Center,Wilkes-Barre,0,0,0,0.0
+180,Wills Eye Hospital,Philadelphia,4,361,857,121227.0
+181,WVU Medicine Uniontown Hospital,Uniontown,145,5983,30246,301423.0
+182,TOTAL,,34863,1384171,6927400,232016821.0
