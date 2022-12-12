@@ -2,7 +2,7 @@
 
 This is the repository for all datasets and Jupyter notebooks utilized in our project. The goal of the project is to provide an allocation prioritization for each county in Pennslyvania for four areas of interest related to improving maternal, infant, and child health (MICH) outcomes. The repository contains the datasets and notebooks used at every stage of our process. The key files to run that provided the main results of our project are in the main folder and explained in the 'Main Files' section below. Data preprocessing steps, raw data sources, and other exploratory notebooks are also stored within other folders in our repository.
 
-*To check the results of our project, the main notebook to examine is the 'OptimizationCode.ipynb'. How all other notebooks and files are connected are explained below. *
+*To check the results of our project, the main notebook to examine is the **'OptimizationCode.ipynb'**. How all other notebooks and files are connected are explained below.*
 
 ## Main Files
 **OptimizationCode.ipynb**
