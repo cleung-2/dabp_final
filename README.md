@@ -4,6 +4,13 @@ This is the repository for all datasets and Jupyter notebooks utilized in our pr
 
 *To check the results of our project, the main notebook to examine is the **'OptimizationCode.ipynb'**. How all other notebooks and files are connected are explained below.*
 
+## Replication Instructions
+To reproduce the optimization results, run the 'OptimizationCode.ipynb' file. This contains the main and final results of the project.
+
+To reproduce project starting with cleaned data. first run 'LinearRegression.ipynb' followed by 'OptimizationCode.ipynb'. Keep in mind that the results of the regression inform the optimization model. There is a copy of the results already saved in the repository, so the file saving line in the regression notebook is commented out. 
+
+To reproduce the project starting with raw data, you must run the preprocessing notebooks before running any of the modeling notebooks. For preprocessing, run 'WebScrapingCode.ipynb', 'Census-ADI.ipynb', and 'DatasetCreation.ipynb' in that order. You will then have the cleaned datasets. Versions of the cleaned datasets are contained in our data folder. After preprocessing is completed, you can run the 'LinearRegression.ipynb' and 'OptimizationCode.ipynb'.
+
 ## Main Files
 **OptimizationCode.ipynb**
 
