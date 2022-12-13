@@ -18,6 +18,7 @@ This notebook contains our linear regression modeling of our project. The purpos
 This csv file contains the county values that are used in our optimization problem. It comes from 'LinearRegression.ipynb'.
 
 **regression_results.csv**
+
 This csv file contains the coefficient weights that were found from our linear regression model in 'LinearRegression.ipynb'.
 
 ## Preprocessing and EDA folder
